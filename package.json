@@ -1,7 +1,7 @@
 {
-  "name": "app-name",
+  "name": "soc",
   "version": "0.0.1",
-  "private": true,
+  "main": "server.js",
   "dependencies": {
     "locomotive": "0.4.x",
     "bootable": "0.2.x",
